@@ -24,7 +24,7 @@ bin/
 
 ### VS Code ###
 .vscode/
-
+.form
 ### Mac OS ###
 .DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,eclipse,intellij
